@@ -1,2 +1,4 @@
-body {font-family:微軟正黑體; font-weight:600; font-size:24; margin:auto; 
-    background:#f28500;}
+* {font-family:微軟正黑體; font-weight:600;}
+header {font-size:56;}
+body {font-size:24; margin:auto;background:#f28500;}
+main {background:#EEFFBB;}
