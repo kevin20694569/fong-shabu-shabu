@@ -1,4 +1,14 @@
 * {font-family:微軟正黑體; font-weight:600;}
 header {font-size:56;}
-body {font-size:24; margin:auto;background:#f28500;}
-main {background:#EEFFBB;}
+body {font-size:24;background:#f28500;margin:0;}
+.firsthead{margin:3%}
+.main-content{background-color: antiquewhite;display:flex;margin:auto}
+.menu{width:20%}
+.introduce{background-color:#fdda79; width:70%;height : 8000px
+   ;margin: auto}
+
+.bord {width:100%;height:52px;background-color: white;display:flex;
+border-top:solid black 2px;border-bottom:solid black 2px}
+.menu-button{display: inline-flex;margin:auto}
+.menu-button > div {margin:0% 40px;font-size:24px;}
+h3{display: inline-block;}
